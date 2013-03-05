@@ -1,30 +1,35 @@
 .orgitdown .orgitdownButton1 a {
-	background-image:url(images/bold.png);
+	background-image:url(images/save.jpeg);
 }
 .orgitdown .orgitdownButton2 a {
-	background-image:url(images/italic.png);
+	background-image:url(images/bold.png);
 }
 .orgitdown .orgitdownButton3 a {
+	background-image:url(images/italic.png);
+}
+.orgitdown .orgitdownButton4 a {
 	background-image:url(images/stroke.png);
 }
 
-.orgitdown .orgitdownButton4 a {
+.orgitdown .orgitdownButton5 a {
 	background-image:url(images/list-bullet.png); 
 }
-.orgitdown .orgitdownButton5 a {
+.orgitdown .orgitdownButton6 a {
 	background-image:url(images/list-numeric.png);
 }
 
-.orgitdown .orgitdownButton6 a {
+.orgitdown .orgitdownButton7 a {
 	background-image:url(images/picture.png); 
 }
-.orgitdown .orgitdownButton7 a {
+.orgitdown .orgitdownButton8 a {
 	background-image:url(images/link.png);
 }
 
-.orgitdown .orgitdownButton8 a {
-	background-image:url(images/clean.png);
+.orgitdown .orgitdownButton9 a {
+	background-image:url(images/html.jpeg);
 }
-.orgitdown .preview a {
-	background-image:url(images/preview.png);
+
+.orgitdown .orgitdownButton10 a {
+	background-image:url(images/close.jpeg);
 }
+
